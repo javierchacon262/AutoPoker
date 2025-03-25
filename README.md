@@ -2,6 +2,8 @@
 
 **AutoPoker** is a semi-automated poker playing bot designed to analyze the game environment, make strategic decisions, and execute actions efficiently. This project leverages advanced multi-modal llm implementation to enhance poker gameplay through screeshots.
 
+![AutoPoker Logo](logo.png)
+
 ## Features
 - Automated decision-making based on hand strength, betting patterns, and opponent behavior.
 - Customizable strategies for different poker scenarios.
