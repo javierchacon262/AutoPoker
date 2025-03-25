@@ -1,0 +1,9 @@
+mss
+numpy
+opencv
+time
+torch
+pyautogui
+pynput
+transformers
+PIL
